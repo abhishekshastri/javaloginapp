@@ -17,11 +17,8 @@
 
 	<properties>
 		<java.version>1.8</java.version>
+		<sonar.projectKey>demo-jenkins</sonar.projectKey>
 	</properties>
-	<properties>
-  		<sonar.projectKey>demo-jenkins</sonar.projectKey>
-	</properties>
-
 	<dependencies>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
